@@ -1,6 +1,6 @@
-# testing
+# Flutter Assignment
 
-A new Flutter project.
+Flutter App which display Bed vacancy details under covid health centres Json data into cardview 
 
 ## Getting Started
 
